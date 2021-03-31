@@ -1,4 +1,4 @@
-### Hola 👋, I'm Harshad Joshi!
+### Hola 👋, I'm [Harshad Joshi!](https://harshadjoshi01.github.io/HarshadIntrosite/)
 ### A Web Dev Enthusiast
 
 - 🔭 I’m currently working on GraphAlgoVizualizer
@@ -12,4 +12,4 @@
 
 [![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshadjoshi01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadjoshi01&layout=Demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadjoshi01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
