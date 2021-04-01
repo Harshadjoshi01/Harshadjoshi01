@@ -8,7 +8,7 @@
 - 💬 Ask me about Python, C, C++, HTML, CSS and Beginners JS
 - 📫 How to reach me: Don't Mail me Just tag me on twitter [@HarshadJoshi](https://twitter.com/Harshad93324665)
 - 😄 Pronouns: Only Harshad
-- ⚡ Fun fact: I listen to songs
+- ⚡ Fun fact: I listen to songs almost 4hrs a day!
 
 
 [![Spotify](https://spotifyplayer.vercel.app//api/spotify)](https://open.spotify.com/user/31yx4zlgqsmnlj3n5zdwlkxevcze)
