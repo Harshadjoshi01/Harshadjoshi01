@@ -13,7 +13,7 @@
 
 [![Spotify](https://spotifyplayer.vercel.app//api/spotify)](https://open.spotify.com/user/31yx4zlgqsmnlj3n5zdwlkxevcze)
 
-[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshadjoshi01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadjoshi01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshadjoshi01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadjoshi01&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <p align="center">
