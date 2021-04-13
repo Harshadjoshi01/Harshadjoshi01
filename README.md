@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help from some good collaborators
 - 💬 Ask me about Python, C, C++, HTML, CSS and Beginners JS
 - 📫 How to reach me: Don't Mail me Just tag me on twitter [@HarshadJoshi](https://twitter.com/Harshad93324665)
-- 😄 Pronouns: Only Harshad
+- 😄 Pronounce: Only Harshad
 - ⚡ Fun fact: I listen to songs almost 4hrs a day!
 
 
