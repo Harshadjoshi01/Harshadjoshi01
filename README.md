@@ -1,8 +1,8 @@
 ### Hola 👋, I'm [Harshad Joshi!](https://harshadjoshi01.github.io/HarshadIntrosite/)
 ### A Web Dev Enthusiast
 
-- 🔭 I’m currently working on GraphAlgoVizualizer
-- 🌱 I’m currently learning Mongo, React, JS, Express
+- 🔭 I’m currently working on ATMSIMULATOR
+- 🌱 I’m currently learning NODEjs, Mongo, React, JS, Express
 - 👯 I’m looking to collaborate on JPGsnoop
 - 🤔 I’m looking for help from some good collaborators
 - 💬 Ask me about Python, C, C++, HTML, CSS and Beginners JS
@@ -12,8 +12,7 @@
 
 
 [![Spotify](https://spotifyplayer.vercel.app//api/spotify)](https://open.spotify.com/user/31yx4zlgqsmnlj3n5zdwlkxevcze)
-
-[![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshadjoshi01&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshadjoshi01&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
 ### Languages and Tools:
 <p align="center">
@@ -28,7 +27,7 @@
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 <img title="Nodejs" alt="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="40" width="40"/>
 </p>
-<hr>
+
 
 ### Check Out :)
 <p align = "center">
@@ -49,7 +48,7 @@
 <br>
     
 **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
-<hr>
+
 
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
@@ -63,3 +62,14 @@
 <a target="_blank" href="https://twitter.com/Harshad93324665"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>   
+
+<hr>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshadjoshi01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Harshadjoshi01" </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harshadjoshi01&show_icons=true&theme=tokyonight&locale=en" alt="Harshadjoshi01" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshadjoshi01&theme=dark" alt="raprocks" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshadjoshi01&label=Profile%20Visits&color=694c94&style=flat" alt="Harshadjoshi01" /></p>
+
