@@ -26,7 +26,19 @@
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
-<img title="Nodejs" alt="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="40" width="40" />
+<img title="Nodejs" alt="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="40" width="40"/>
+</p>
+<hr>
+
+### Check Out :)
+<p align = "center">
+</a>
+<a href="https://www.hackerrank.com/joshiharshad41" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="joshiharshad41" height="120" width="120" />
+</a>
+<a href="https://www.codechef.com/users/onlyharshad01" target="blank">
+    <img align="center" src="https://s3.amazonaws.com/codechef_shared/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="onlyharshad01" height="120" width="120" />
+</a>
 </p>
 
 
