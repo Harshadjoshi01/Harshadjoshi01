@@ -1,14 +1,12 @@
 ### Hola 👋, I'm [Harshad Joshi!](https://harshadjoshi01.github.io/HarshadIntrosite/)
 ### A Web Dev Enthusiast
 
-- 🔭 I’m currently working on ATMSIMULATOR
+- 🔭 I’m currently working on My DSA skills
 - 🌱 I’m currently learning NODEjs, Mongo, React, JS, Express
 - 👯 I’m looking to collaborate on JPGsnoop
 - 🤔 I’m looking for help from some good collaborators
 - 💬 Ask me about Python, C, C++, HTML, CSS and Beginners JS
 - 📫 How to reach me: Don't Mail me Just tag me on twitter [@HarshadJoshi](https://twitter.com/Harshad93324665)
-- 😄 Pronounce: Only Harshad
-- ⚡ Fun fact: I listen to songs almost 4hrs a day!
 
 
 [![Spotify](https://spotifyplayer.vercel.app//api/spotify)](https://open.spotify.com/user/31yx4zlgqsmnlj3n5zdwlkxevcze)
