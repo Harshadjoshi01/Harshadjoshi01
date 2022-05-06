@@ -9,8 +9,7 @@
 - 📫 How to reach me: Don't Mail me Just tag me on twitter [@HarshadJoshi](https://twitter.com/Harshad93324665)
 
 
-[![Spotify](https://spotifyplayer.vercel.app//api/spotify)](https://open.spotify.com/user/31yx4zlgqsmnlj3n5zdwlkxevcze)
-<hr>
+
 
 ### Languages and Tools:
 <p align="center">
